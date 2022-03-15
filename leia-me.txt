@@ -1,0 +1,7 @@
+git init = inicia um git na pasta em que você esta
+git status = mostra os arquivos que estão no seu commit
+git add {nome do arquivo} = adiciona o arquivo no commit
+git add . = adiciona todos os arquivos da pasta dentro do seu commit
+git commit -m"{descrição obrigatória}" = cria commit e adiciona uma descrição
+git remote add {link do repositório} = mostra em qual repositório o github deve adicionar os arquivos
+git -u origin master = adiciona os arquivos no repositório
